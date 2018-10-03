@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{134:function(e,n,t){"use strict";t.r(n);var l=t(17),i=Object(l.a)({},function(){var e=this.$createElement;return(this._self._c||e)("h1",[this._v("Hello SpringNuxt!")])},[],!1,null,null,null);i.options.__file="hello.vue";n.default=i.exports}}]);
